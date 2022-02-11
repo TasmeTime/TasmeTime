@@ -8,5 +8,6 @@ Also, I have hands-one-code experience with ASP.NET MVC, Desktop Applications, a
 
 - 🌐 My Website (https://m-azad.ir)
 - ▶️ Youtube! (https://youtube.com/tasmetime)
+- 💼 LinkedIn https://www.linkedin.com/in/moslem-azad
 - 📫 You can reach me using my [Email](mailto:info@m-azad.ir)
  
