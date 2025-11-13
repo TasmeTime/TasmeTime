@@ -21,6 +21,6 @@ Soft Skills: Problem Solving, Architecture Design, Leadership, Communication
 📫 Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to connect with me on LinkedIn or reach out via email.
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+LinkedIn: [https://www.linkedin.com/in/moslem-azad](https://www.linkedin.com/in/moslem-azad/)
 
 Email: moslem.azad.shmhle@outlook.com
